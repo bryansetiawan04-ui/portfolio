@@ -19,4 +19,6 @@ This repository contains my personal front-end portfolio website.
 - jQuery
 
 ## Development Notes
-Thi
+This portfolio is being actively developed to demonstrate my front-end skills and learning progress.
+
+Live demo will be available soon.
